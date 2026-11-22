@@ -1,2 +1,22 @@
+# Симуляція (Icarus Verilog / GTKWave)
 sim.vvp
 dump.vcd
+
+# Quartus Prime: згенеровані папки та файли
+db/
+incremental_db/
+output_files/
+simulation/
+qdb/
+tmp-clearbox/
+*.qws
+*.ppf
+*.bak
+*.rpt
+*.summary
+*.smsg
+*.jdi
+*.sld
+*.pin
+*.done
+*.qdf
